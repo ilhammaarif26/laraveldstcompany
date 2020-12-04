@@ -30,13 +30,14 @@
                       <a href="#" class="card-link">-</a>
                       <a href="#" class="card-link">-</a>
                     </div>
-                    <div>
-                        <div class="row">
-                            <a href="/create">Add Product</a>
-                        </div>
-                    </div>
+                    
                   </div>    
                 @endforeach
+            </div>
+            <div>
+                <div class="row">
+                    <a href="/products/create">Add Product</a>
+                </div>
             </div>
         </div>
         
